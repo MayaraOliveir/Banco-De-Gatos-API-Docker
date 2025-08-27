@@ -1,0 +1,12 @@
+# Binários
+bin/
+obj/
+
+# Ignora arquivos de usuário de IDEs
+.vs/
+*.suo
+*.user
+*.log
+
+# Docker
+*.env
