@@ -1,4 +1,4 @@
-# 🐾 BancoDeGatos: API .NET com Docker e MySQL
+# 🐾 BancoDeDados: API .NET com Docker e MySQL
 
 Este projeto foi criado como um esforço de aprendizado e aprofundamento nas tecnologias **.NET**, **Docker** e **MySQL**.  
 O objetivo principal foi praticar a construção de uma **API em C#** e entender como orquestrar e gerenciar o ambiente de desenvolvimento usando contêineres Docker, simulando um ambiente de produção.
